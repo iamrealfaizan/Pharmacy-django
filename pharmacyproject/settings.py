@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-w18o+g_=!y_pfauhf@*hya5eib%4@g-q4u(jjbg%2)m4!%nygh
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pharmacy-django.onrender.com']
 
 
 # Application definition
